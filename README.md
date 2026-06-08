@@ -39,7 +39,7 @@ Developed as a collaborative 2-person project to strengthen understanding of **s
 ## Credits
 
 Built collaboratively by **Nabeel Ahmed Kabir** ([@NabeelAhmedKab1r](https://github.com/NabeelAhmedKab1r)) and **[@LobMat](https://github.com/LobMat)**.  
-Development was done in-person — original repository [here](https://github.com/LobMat/SnakeGame-FPGA-Project).
+Development was done in-person 
 
 ---
 
